@@ -11306,7 +11306,8 @@ header.masthead:before {
   opacity: 0.5;
 }
 header.masthead h1, header.masthead .h1 {
-  font-size: 2rem;
+  font-family: Creepster;
+  font-size: 4rem !important;
 }
 @media (min-width: 768px) {
   header.masthead {
